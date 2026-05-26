@@ -9,3 +9,4 @@ Message class consist of messagetest and message.java
 
 i used while loops to allow my user to re enter their information as many times they like 
 
+
